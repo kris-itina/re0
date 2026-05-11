@@ -21,3 +21,8 @@
 ### Code block:
 ```javascript
 console.log("Git Lab");
+```
+### friends info:
+|student id|student name|student english|
+|---|---|---|
+|20242200|ChenZhongLiang|Clark|
